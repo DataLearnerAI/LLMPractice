@@ -2,6 +2,7 @@
 A repository that run LLM in one .py or .ipynb file!
 一个py/ipynb文件运行开源大模型
 
+
 # Models
 
 |模型名称 |模型信息卡地址 | 教程链接 |
